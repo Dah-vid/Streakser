@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Streaks",
-    "slug": "streaks",
+    "name": "Streakser",
+    "slug": "streakser",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -14,14 +14,14 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.yourname.streaks"
+      "bundleIdentifier": "com.yourname.streakser"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#0F1115"
       },
-      "package": "com.yourname.streaks"
+      "package": "com.yourname.streakser"
     }
   }
 }

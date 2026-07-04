@@ -1,4 +1,4 @@
-# Streaks — run on your iPhone
+# Streakser — run on your iPhone
 
 A habit streak tracker with scheduled habits, an auto-freeze that only protects
 *scheduled* days (and never two in a row), and a haptic log button.

@@ -1,4 +1,4 @@
-// Streaks — habit streak tracker with scheduled habits, auto-freeze, and a
+// Streakser — habit streak tracker with scheduled habits, auto-freeze, and a
 // tactile haptic log button. Runs in Expo Go (real Taptic engine on iPhone).
 //
 // Setup:
@@ -518,7 +518,7 @@ export default function App() {
       <ScrollView contentContainerStyle={{ maxWidth: 460, width: "100%", alignSelf: "center", paddingHorizontal: 18, paddingTop: 18, paddingBottom: 60 }}>
         <View style={{ marginBottom: 22 }}>
           <Text style={{ fontSize: 11, letterSpacing: 3, color: C.faint, marginBottom: 3 }}>KEEP THE FIRE</Text>
-          <Text style={{ fontSize: 27, fontWeight: "800", color: C.text, letterSpacing: -0.5 }}>Streaks</Text>
+          <Text style={{ fontSize: 27, fontWeight: "800", color: C.text, letterSpacing: -0.5 }}>Streakser</Text>
         </View>
 
         {loadWarning && (
